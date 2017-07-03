@@ -12,7 +12,7 @@ namespace PARTE1
     {
         public string build(string cadena)
         {
-            string resultado = "";
+            string resultado = ""; 
             var chars = cadena.ToCharArray();
 
             for (int i = 0; i < chars.Length; i++)
