@@ -10,7 +10,7 @@ namespace PARTE1
 {
     public class ChangeString
     {
-        public string build(string cadena)
+        public string build(string cadena) 
         {
             string resultado = ""; 
             var chars = cadena.ToCharArray();
